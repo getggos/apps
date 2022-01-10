@@ -1,7 +1,7 @@
 # Microsoft Apps
 Install the Microsoft Store or Xbox apps on ggOS.
 
-### Optimization Tools ###
+### Additional Optimization Tools ###
 
 [Autoruns]()
 
