@@ -2,7 +2,7 @@
 Install the Microsoft Store or Xbox apps on ggOS. Simply download a package and open it.
 
 ### Additional Windows Optimization Tools ###
-Tools that are preinstalled on ggOS (in the Windows Optimization folder).
+Links to helpful programs that are preinstalled on ggOS.
 
 - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 - [Cleanmgr+](https://www.builtbybel.com/cleanmgrplus)
