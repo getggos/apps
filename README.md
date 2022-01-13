@@ -1,6 +1,9 @@
 # Microsoft Apps
 Install the Microsoft Store or Xbox apps on ggOS.
 
+### Installation Instructions ###
+Simply download any package above and open it. Installation is automatic on ggOS.
+
 ### Additional Windows Optimization Tools ###
 
 - [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
