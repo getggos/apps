@@ -1,5 +1,5 @@
 ## Microsoft Apps
-Install the Microsoft Store and Xbox apps on ggOS. Simply download the packages and open them.
+Install the Microsoft Store or other UWP apps on ggOS. Simply download the packages and open them.
 
 NOTE: The Xbox app requires the Xbox Game Bar app, along with additional packages that must be installed from within the Xbox app itself.
 
